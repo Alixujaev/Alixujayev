@@ -4,7 +4,7 @@ a{
 }
 
 /* header start */
-/* .nav,
+.nav,
 .navigaion,
 .nav__list{
     background: #F9F6E5;
@@ -117,10 +117,10 @@ a{
 }
 .header__row_btn:hover{
     color: #6BB071;
-} */
+}
 /* header end */
 /* recent start */
-/* .recent{
+.recent{
     background: #F9F6E5;
     margin-bottom: 40px;
 }
@@ -350,11 +350,11 @@ a{
     grid-area: l4;
     
 }
- */
+
 
 /* recent end */
 /* latest start */ 
-/* .tales__content{
+.tales__content{
     margin-bottom: 50px;
 }
 .tales__h2{
@@ -636,7 +636,7 @@ a{
 .carousel__h3{
     margin-bottom: 80px;
 }
- */
+
 
 
 
@@ -644,7 +644,7 @@ a{
 
 /* footer start */
 
-/* footer{
+footer{
     background: #6BB071;
     color: #fff;
     position: relative;
@@ -717,7 +717,7 @@ a{
     font-size: 20px;
     color: #6BB071;
     padding-left: 10px;
-} */
+}
 
 /* footer end */
 
